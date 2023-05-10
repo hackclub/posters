@@ -2,6 +2,8 @@
 
 The stunning, beautiful, incredible Hack Club posters designed by the one and only @Krishna-bansall.
 
+These posters are copyright Hack Club. If you're a club leader, hackathon organizer, or community member, you're authorized to print and distribute these for Hack Club-related purposes.
+
 | Preview                                                                                                                                                                                                                          | Front (With Bleed)                                                                         | Back (With Bleed)                                                                         | Source Files |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------ |
 | <img src="https://cloud-4x9ytu8j5-hack-club-bot.vercel.app/0sprig_poster_-_preview_-_front.jpg" width="150"> <img src="https://cloud-4x9ytu8j5-hack-club-bot.vercel.app/1sprig_poster_-_preview_-_back.jpg" width="150">         | [Download](https://cloud-6gk0z1yck-hack-club-bot.vercel.app/0sprig_poster_-_front.png)     | [Download](https://cloud-1j91265ua-hack-club-bot.vercel.app/0sprig_poster_-_back.png)     | TODO         |
