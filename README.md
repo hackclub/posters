@@ -2,7 +2,7 @@
 
 The stunning, beautiful, incredible Hack Club posters designed by the one and only @Krishna-bansall.
 
-These posters are copyright Hack Club. If you're a club leader, hackathon organizer, or community member, you're authorized to print and distribute these for Hack Club-related purposes. You're also welcome to use them personally, or give to friends!
+If you're a club leader, hackathon organizer, or community member, you're authorized to print and distribute these for Hack Club-related purposes. You're also welcome to use them personally, or give to friends! These posters are copyright Hack Club.
 
 | Preview                                                                                                                                                                                                                          | Front (With Bleed)                                                                         | Back (With Bleed)                                                                         | Source Files |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------- | ------------ |
