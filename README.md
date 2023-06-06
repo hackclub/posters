@@ -10,3 +10,8 @@ If you're a club leader, hackathon organizer, or community member, you're author
 | <img src="https://cloud-fgyqs51rz-hack-club-bot.vercel.app/0sinerider_poster_-_preview_-_front.jpg" width="150"> <img src="https://cloud-fgyqs51rz-hack-club-bot.vercel.app/1sinerider_poster_-_preview_-_back.jpg" width="150"> | [Download](https://cloud-3f1y6powb-hack-club-bot.vercel.app/0sinerider_poster_-_front.png) | [Download](https://cloud-bl4vim1zn-hack-club-bot.vercel.app/0sinerider_poster_-_back.png) | [Download](https://cloud-kygirazin-hack-club-bot.vercel.app/0sinerider_poster_source_files.zip)         |
 
 FYI that the designs have 0.125 inches of extra margin around all sides (this is called bleed). This is meant to be cropped off or physically cut off. All designs are for US Letter paper size (8.5 inches x 11 inches).
+
+## In-Progress Projects
+
+- Hack Club t-shirt design
+- https://github.com/hackclub/onboard poster
