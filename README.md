@@ -4,6 +4,13 @@ The stunning, beautiful, incredible Hack Club posters!
 
 If you're a club leader, hackathon organizer, or community member, you're authorized to print, distribute and translate these for Hack Club-related purposes. You're also welcome to use them personally, or give to friends! These posters are copyright Hack Club.
 
+## How can I get some?
+
+- If you're in the US or Canada, it's [here](https://forms.hackclub.com/t/uzgyhTqvsFus)
+- If you're the rest of the world it's [here](https://forms.hackclub.com/intlposters)
+
+## The files!
+
 | Preview | Front (With Bleed) | Back (With Bleed) | Source Files | Author |
 | --- | --- | --- | --- | --- |
 | <img src="https://cloud-j37gyzhpn-hack-club-bot.vercel.app/19x11.5-front-preview.png" width="150"> <img src="https://cloud-j37gyzhpn-hack-club-bot.vercel.app/09x11.5-back-preview.png" width="150"> | [Download](https://cloud-4qmgsogun-hack-club-bot.vercel.app/09x11.5-front-648dpi__1_.png) | [Download](https://cloud-hgfpou9oo-hack-club-bot.vercel.app/09x11.5-back-648dpi__1_.png) | [Go to Figma](https://www.figma.com/design/jGaxkfh1WOHNZRnhQO9HtO/sprig?node-id=3001-769&t=ExdpPnJuR8quK4Xj-1) | [@Krishna Bansal](https://hackclub.slack.com/team/U03CBNJUWJG), Acon, & Cheru |
